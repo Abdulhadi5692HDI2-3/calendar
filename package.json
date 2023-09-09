@@ -1,0 +1,14 @@
+{
+  "name": "calendar",
+  "version": "0.1.2",
+  "description": "Calendar app made with my terrible coding skills.",
+  "main": "dont know",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Abdulhadi5692HDI2, Abdulhadi5692HDI2-3",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
